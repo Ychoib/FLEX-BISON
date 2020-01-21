@@ -3,4 +3,4 @@ interpreter
 
 
 lex analysis
-semantic analysos 
+semantic analysis 
